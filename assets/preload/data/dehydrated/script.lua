@@ -1,4 +1,9 @@
 function onCreate()
+	makeAnimatedLuaSprite('spongedie','background/dehydrated/COMEHERE/DrySpongeDeath', getCharacterX('dad') - 580, getCharacterY('dad') - 240);
+	addAnimationByPrefix('spongedie', 'death', ' die', 60, false);
+	addLuaSprite('spongedie', false);
+	setProperty('spongedie.visible', false)
+
 	makeAnimatedLuaSprite('spongebottom', 'background/dehydrated/COMEHERE/DrySpongeBottom', getCharacterX('dad') - 580, getCharacterY('dad') - 240);
 	addAnimationByPrefix('spongebottom', 'idle', ' idle' ,60, true);
 	addAnimationByPrefix('spongebottom', 'down', ' down' ,60, false);
@@ -51,5 +56,11 @@ function onStepHit()
 		objectPlayAnimation('backroundrun', 'backroundrun idle')
 		setProperty('bg.visible', false)
 		setProperty('spongebottom.visible', true)
+	end
+	if curStep == 2096 then
+		setProperty('dadGroup.visible', false)
+		setProperty('spongebottom.visible', false)
+		setProperty('spongedie.visible', true)
+		objectPlayAnimation('spongedie', 'death')
 	end
 end
