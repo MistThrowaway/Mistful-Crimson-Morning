@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-238,
-				-213
+				-212
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "DownReagan"
-		},
-		{
-			"offsets": [
-				-303,
-				-49
-			],
-			"loop": false,
 			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "UpReagan"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-106,
-				-216
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "LeftReagan",
+			"name": "DownReagan",
 			"indices": []
 		},
 		{
 			"loop": false,
+			"offsets": [
+				322,
+				-177
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UpReagan",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-158,
+				-186
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LeftReagan"
+		},
+		{
 			"offsets": [
 				50,
 				-159
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "RightReagan",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RightReagan"
 		},
 		{
+			"loop": true,
 			"offsets": [
 				-251,
 				-197
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
-			"loop": true,
-			"name": "IdleReagan"
+			"fps": 24,
+			"name": "IdleReagan",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,

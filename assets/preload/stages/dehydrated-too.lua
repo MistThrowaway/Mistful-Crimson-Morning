@@ -8,14 +8,12 @@ local del = 0;
 local del2 = 0;
 
 function onCreate()
-
 	setProperty('boyfriendGroup.visible', false);
 	setProperty('gfGroup.visible', false);
-	
 
-	makeAnimatedLuaSprite('backroundrun','background/dehydrated/Dehydrated', -890, -400)
-	scaleLuaSprite('backroundrun', 2, 2);
-	addAnimationByPrefix('backroundrun','backroundrun idle', 'Dehydrated idle', 60, true)
+	makeAnimatedLuaSprite('backroundrun', 'background/dehydrated/Dehydrated', -690, -200)
+	scaleLuaSprite('backroundrun', 4, 4);
+	addAnimationByPrefix('backroundrun', 'backroundrun idle', 'Dehydrated idle', 60, true)
     objectPlayAnimation('backroundrun', 'backroundrun idle')
 	addLuaSprite('backroundrun', false);
 end
@@ -29,57 +27,56 @@ function onUpdate()
 	end
     if followchars == true then
         if mustHitSection == false then
-			setProperty('defaultCamZoom',0.7)
+			setProperty('defaultCamZoom', 0.7)
             if getProperty('dad.animation.curAnim.name') == 'singLEFT' then
-                triggerEvent('Camera Follow Pos',xx-ofs,yy)
+                triggerEvent('Camera Follow Pos', xx - ofs, yy)
             end
             if getProperty('dad.animation.curAnim.name') == 'singRIGHT' then
-                triggerEvent('Camera Follow Pos',xx+ofs,yy)
+                triggerEvent('Camera Follow Pos', xx + ofs, yy)
             end
             if getProperty('dad.animation.curAnim.name') == 'singUP' then
-                triggerEvent('Camera Follow Pos',xx,yy-ofs)
+                triggerEvent('Camera Follow Pos', xx, yy - ofs)
             end
             if getProperty('dad.animation.curAnim.name') == 'singDOWN' then
-                triggerEvent('Camera Follow Pos',xx,yy+ofs)
+                triggerEvent('Camera Follow Pos', xx, yy + ofs)
             end
             if getProperty('dad.animation.curAnim.name') == 'singLEFT-alt' then
-                triggerEvent('Camera Follow Pos',xx-ofs,yy)
+                triggerEvent('Camera Follow Pos', xx - ofs, yy)
             end
             if getProperty('dad.animation.curAnim.name') == 'singRIGHT-alt' then
-                triggerEvent('Camera Follow Pos',xx+ofs,yy)
+                triggerEvent('Camera Follow Pos', xx + ofs, yy)
             end
             if getProperty('dad.animation.curAnim.name') == 'singUP-alt' then
-                triggerEvent('Camera Follow Pos',xx,yy-ofs)
+                triggerEvent('Camera Follow Pos', xx, yy - ofs)
             end
             if getProperty('dad.animation.curAnim.name') == 'singDOWN-alt' then
-                triggerEvent('Camera Follow Pos',xx,yy+ofs)
+                triggerEvent('Camera Follow Pos', xx, yy + ofs)
             end
             if getProperty('dad.animation.curAnim.name') == 'idle-alt' then
-                triggerEvent('Camera Follow Pos',xx,yy)
+                triggerEvent('Camera Follow Pos', xx, yy)
             end
             if getProperty('dad.animation.curAnim.name') == 'idle' then
-                triggerEvent('Camera Follow Pos',xx,yy)
+                triggerEvent('Camera Follow Pos', xx, yy)
             end
         else
 			setProperty('defaultCamZoom', 0.6)
             if getProperty('boyfriend.animation.curAnim.name') == 'singLEFT' then
-                triggerEvent('Camera Follow Pos',xx2-ofs,yy2)
+                triggerEvent('Camera Follow Pos', xx2 - ofs, yy2)
             end
             if getProperty('boyfriend.animation.curAnim.name') == 'singRIGHT' then
-                triggerEvent('Camera Follow Pos',xx2+ofs,yy2)
+                triggerEvent('Camera Follow Pos', xx2 + ofs, yy2)
             end
             if getProperty('boyfriend.animation.curAnim.name') == 'singUP' then
-                triggerEvent('Camera Follow Pos',xx2,yy2-ofs)
+                triggerEvent('Camera Follow Pos', xx2, yy2 - ofs)
             end
             if getProperty('boyfriend.animation.curAnim.name') == 'singDOWN' then
-                triggerEvent('Camera Follow Pos',xx2,yy2+ofs)
+                triggerEvent('Camera Follow Pos', xx2, yy2 + ofs)
             end
 	    if getProperty('boyfriend.animation.curAnim.name') == 'idle' then
-                triggerEvent('Camera Follow Pos',xx2,yy2)
+                triggerEvent('Camera Follow Pos', xx2, yy2)
             end
         end
     else
-        triggerEvent('Camera Follow Pos','','')
+        triggerEvent('Camera Follow Pos', '', '')
     end
-    
 end

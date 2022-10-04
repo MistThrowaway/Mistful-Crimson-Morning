@@ -59,8 +59,8 @@
 	"no_antialiasing": false,
 	"image": "characters/largespritesheets/DrySpongeTop",
 	"position": [
-		-200,
-		-100
+		-590,
+		-300
 	],
 	"healthicon": "driedup",
 	"flip_x": false,
