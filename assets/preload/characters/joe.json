@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				81,
+				-80
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Joe_Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				-310
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Joe_Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-10
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Joe_Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-103
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Joe_Right"
+		},
+		{
+			"offsets": [
+				-150,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Joe_idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/JOE_MAMA",
+	"position": [
+		-50,
+		-90
+	],
+	"healthicon": "joe",
+	"flip_x": false,
+	"healthbar_colors": [
+		74,
+		145,
+		145
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

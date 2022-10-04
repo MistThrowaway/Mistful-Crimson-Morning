@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-100,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/normality2",
+	"position": [
+		-150,
+		-170
+	],
+	"healthicon": "squidward",
+	"flip_x": false,
+	"healthbar_colors": [
+		116,
+		114,
+		133
+	],
+	"camera_position": [
+		130,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

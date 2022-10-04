@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Krabs.png">
+<SubTexture name="Idle0000" x="4036" y="2280" width="420" height="455" frameX="-132" frameY="-236" frameWidth="700" frameHeight="700" />
+<SubTexture name="Idle0001" x="4036" y="2735" width="445" height="455" frameX="-127" frameY="-236" frameWidth="700" frameHeight="700" />
+<SubTexture name="Idle0002" x="3425" y="3681" width="472" height="454" frameX="-120" frameY="-237" frameWidth="700" frameHeight="700" />
+<SubTexture name="Idle0003" x="3193" y="0" width="474" height="458" frameX="-118" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Idle0004" x="0" y="3224" width="474" height="457" frameX="-118" frameY="-239" frameWidth="700" frameHeight="700" />
+<SubTexture name="Idle0005" x="0" y="3224" width="474" height="457" frameX="-118" frameY="-239" frameWidth="700" frameHeight="700" />
+<SubTexture name="Idle0006" x="0" y="3224" width="474" height="457" frameX="-118" frameY="-239" frameWidth="700" frameHeight="700" />
+<SubTexture name="Idle0007" x="0" y="3224" width="474" height="457" frameX="-118" frameY="-239" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0000" x="5434" y="2712" width="458" height="451" frameX="-150" frameY="-239" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0001" x="3120" y="4591" width="485" height="452" frameX="-140" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0002" x="2280" y="0" width="544" height="460" frameX="-115" frameY="-237" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0003" x="508" y="462" width="581" height="461" frameX="-94" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0004" x="0" y="1846" width="589" height="460" frameX="-87" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0005" x="554" y="2766" width="592" height="458" frameX="-86" frameY="-239" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0006" x="574" y="2306" width="593" height="459" frameX="-87" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0007" x="1184" y="0" width="592" height="461" frameX="-89" frameY="-236" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0008" x="0" y="0" width="592" height="462" frameX="-90" frameY="-235" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0009" x="592" y="0" width="592" height="462" frameX="-90" frameY="-235" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0010" x="1184" y="461" width="592" height="461" frameX="-90" frameY="-236" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0011" x="2053" y="4137" width="586" height="454" frameX="-81" frameY="-236" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0012" x="2594" y="4591" width="526" height="453" frameX="-79" frameY="-237" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0013" x="3605" y="4591" width="517" height="452" frameX="-84" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0014" x="2639" y="4137" width="543" height="454" frameX="-89" frameY="-239" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0015" x="1146" y="2766" width="565" height="458" frameX="-92" frameY="-239" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0016" x="589" y="1846" width="569" height="460" frameX="-94" frameY="-239" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0017" x="1158" y="1846" width="569" height="460" frameX="-94" frameY="-239" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0018" x="1158" y="1846" width="569" height="460" frameX="-94" frameY="-239" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0019" x="1158" y="1846" width="569" height="460" frameX="-94" frameY="-239" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0020" x="1727" y="1846" width="569" height="460" frameX="-94" frameY="-239" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0021" x="0" y="2306" width="574" height="460" frameX="-94" frameY="-239" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0022" x="3182" y="4137" width="572" height="454" frameX="-92" frameY="-239" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0023" x="5434" y="3163" width="556" height="451" frameX="-86" frameY="-239" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0024" x="5434" y="3614" width="557" height="451" frameX="-77" frameY="-239" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0025" x="5434" y="4065" width="562" height="451" frameX="-71" frameY="-239" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0026" x="5434" y="4516" width="564" height="451" frameX="-68" frameY="-239" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0027" x="0" y="5045" width="571" height="451" frameX="-61" frameY="-239" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0028" x="571" y="5045" width="581" height="451" frameX="-50" frameY="-239" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0029" x="4122" y="4591" width="594" height="452" frameX="-44" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0030" x="4716" y="4591" width="606" height="452" frameX="-48" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0031" x="5434" y="0" width="595" height="452" frameX="-73" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0032" x="5434" y="452" width="565" height="452" frameX="-113" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0033" x="5434" y="904" width="543" height="452" frameX="-134" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0034" x="1711" y="2766" width="523" height="458" frameX="-141" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0035" x="0" y="924" width="510" height="461" frameX="-146" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0036" x="0" y="462" width="508" height="462" frameX="-148" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0037" x="510" y="924" width="507" height="461" frameX="-149" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0038" x="1017" y="924" width="505" height="461" frameX="-151" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0039" x="1776" y="0" width="504" height="461" frameX="-152" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0040" x="1776" y="461" width="504" height="461" frameX="-152" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0041" x="1776" y="922" width="504" height="461" frameX="-152" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0042" x="0" y="1385" width="504" height="461" frameX="-152" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0043" x="0" y="1385" width="504" height="461" frameX="-152" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0044" x="504" y="1385" width="504" height="461" frameX="-152" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Yellow Bastard0045" x="504" y="1385" width="504" height="461" frameX="-152" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Gasp0000" x="5434" y="1356" width="470" height="452" frameX="-115" frameY="-239" frameWidth="700" frameHeight="700" />
+<SubTexture name="Gasp0001" x="5434" y="1808" width="470" height="452" frameX="-112" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Gasp0002" x="3754" y="4137" width="474" height="454" frameX="-102" frameY="-236" frameWidth="700" frameHeight="700" />
+<SubTexture name="Gasp0003" x="1999" y="3681" width="480" height="455" frameX="-90" frameY="-235" frameWidth="700" frameHeight="700" />
+<SubTexture name="Gasp0004" x="506" y="3681" width="488" height="456" frameX="-81" frameY="-234" frameWidth="700" frameHeight="700" />
+<SubTexture name="Gasp0005" x="2479" y="3681" width="497" height="455" frameX="-79" frameY="-235" frameWidth="700" frameHeight="700" />
+<SubTexture name="Gasp0006" x="4228" y="4137" width="500" height="454" frameX="-88" frameY="-237" frameWidth="700" frameHeight="700" />
+<SubTexture name="Gasp0007" x="5434" y="2260" width="487" height="452" frameX="-106" frameY="-239" frameWidth="700" frameHeight="700" />
+<SubTexture name="Gasp0008" x="4956" y="0" width="478" height="454" frameX="-115" frameY="-239" frameWidth="700" frameHeight="700" />
+<SubTexture name="Gasp0009" x="4956" y="454" width="478" height="454" frameX="-115" frameY="-239" frameWidth="700" frameHeight="700" />
+<SubTexture name="Gasp0010" x="4956" y="454" width="478" height="454" frameX="-115" frameY="-239" frameWidth="700" frameHeight="700" />
+<SubTexture name="Gasp0011" x="4956" y="454" width="478" height="454" frameX="-115" frameY="-239" frameWidth="700" frameHeight="700" />
+<SubTexture name="Gasp0012" x="4956" y="454" width="478" height="454" frameX="-115" frameY="-239" frameWidth="700" frameHeight="700" />
+<SubTexture name="Gasp0013" x="4956" y="454" width="478" height="454" frameX="-115" frameY="-239" frameWidth="700" frameHeight="700" />
+<SubTexture name="Gasp0014" x="4956" y="454" width="478" height="454" frameX="-115" frameY="-239" frameWidth="700" frameHeight="700" />
+<SubTexture name="Gasp0015" x="4956" y="454" width="478" height="454" frameX="-115" frameY="-239" frameWidth="700" frameHeight="700" />
+<SubTexture name="Gasp0016" x="4956" y="454" width="478" height="454" frameX="-115" frameY="-239" frameWidth="700" frameHeight="700" />
+<SubTexture name="Richest Man0000" x="4036" y="3190" width="424" height="455" frameX="-133" frameY="-234" frameWidth="700" frameHeight="700" />
+<SubTexture name="Richest Man0001" x="2976" y="3681" width="449" height="455" frameX="-127" frameY="-234" frameWidth="700" frameHeight="700" />
+<SubTexture name="Richest Man0002" x="994" y="3681" width="486" height="456" frameX="-84" frameY="-234" frameWidth="700" frameHeight="700" />
+<SubTexture name="Richest Man0003" x="2280" y="1379" width="398" height="459" frameX="-109" frameY="-232" frameWidth="700" frameHeight="700" />
+<SubTexture name="Richest Man0004" x="2296" y="1846" width="496" height="459" frameX="-49" frameY="-233" frameWidth="700" frameHeight="700" />
+<SubTexture name="Richest Man0005" x="3193" y="916" width="451" height="458" frameX="-86" frameY="-236" frameWidth="700" frameHeight="700" />
+<SubTexture name="Richest Man0006" x="0" y="4591" width="538" height="454" frameX="-60" frameY="-240" frameWidth="700" frameHeight="700" />
+<SubTexture name="Richest Man0007" x="3667" y="458" width="347" height="457" frameX="-169" frameY="-233" frameWidth="700" frameHeight="700" />
+<SubTexture name="Richest Man0008" x="3667" y="915" width="347" height="457" frameX="-170" frameY="-233" frameWidth="700" frameHeight="700" />
+<SubTexture name="Richest Man0009" x="3193" y="1374" width="347" height="458" frameX="-170" frameY="-232" frameWidth="700" frameHeight="700" />
+<SubTexture name="Richest Man0010" x="3193" y="1832" width="347" height="458" frameX="-170" frameY="-232" frameWidth="700" frameHeight="700" />
+<SubTexture name="Richest Man0011" x="3193" y="2290" width="347" height="458" frameX="-170" frameY="-232" frameWidth="700" frameHeight="700" />
+<SubTexture name="Richest Man0012" x="3667" y="1372" width="358" height="457" frameX="-164" frameY="-234" frameWidth="700" frameHeight="700" />
+<SubTexture name="Richest Man0013" x="2234" y="2766" width="370" height="458" frameX="-157" frameY="-232" frameWidth="700" frameHeight="700" />
+<SubTexture name="Richest Man0014" x="1167" y="2306" width="369" height="459" frameX="-150" frameY="-231" frameWidth="700" frameHeight="700" />
+<SubTexture name="Richest Man0015" x="1536" y="2306" width="369" height="459" frameX="-150" frameY="-231" frameWidth="700" frameHeight="700" />
+<SubTexture name="Richest Man0016" x="1905" y="2306" width="369" height="459" frameX="-150" frameY="-231" frameWidth="700" frameHeight="700" />
+<SubTexture name="Richest Man0017" x="2274" y="2306" width="369" height="459" frameX="-150" frameY="-231" frameWidth="700" frameHeight="700" />
+<SubTexture name="Richest Man0018" x="2824" y="0" width="369" height="459" frameX="-150" frameY="-231" frameWidth="700" frameHeight="700" />
+<SubTexture name="Richest Man0019" x="2824" y="459" width="369" height="459" frameX="-150" frameY="-231" frameWidth="700" frameHeight="700" />
+<SubTexture name="Richest Man0020" x="2824" y="0" width="369" height="459" frameX="-150" frameY="-231" frameWidth="700" frameHeight="700" />
+<SubTexture name="Richest Man0021" x="2824" y="918" width="369" height="459" frameX="-150" frameY="-231" frameWidth="700" frameHeight="700" />
+<SubTexture name="Richest Man0022" x="2824" y="1377" width="369" height="459" frameX="-150" frameY="-231" frameWidth="700" frameHeight="700" />
+<SubTexture name="Richest Man0023" x="2280" y="460" width="368" height="460" frameX="-148" frameY="-229" frameWidth="700" frameHeight="700" />
+<SubTexture name="Richest Man0024" x="2824" y="2295" width="368" height="458" frameX="-150" frameY="-231" frameWidth="700" frameHeight="700" />
+<SubTexture name="Richest Man0025" x="4956" y="908" width="364" height="454" frameX="-167" frameY="-236" frameWidth="700" frameHeight="700" />
+<SubTexture name="Richest Man0026" x="4036" y="1824" width="350" height="456" frameX="-171" frameY="-235" frameWidth="700" frameHeight="700" />
+<SubTexture name="Richest Man0027" x="2824" y="1836" width="342" height="459" frameX="-176" frameY="-231" frameWidth="700" frameHeight="700" />
+<SubTexture name="Richest Man0028" x="3667" y="1829" width="356" height="457" frameX="-158" frameY="-236" frameWidth="700" frameHeight="700" />
+<SubTexture name="Richest Man0029" x="2604" y="2766" width="369" height="458" frameX="-151" frameY="-233" frameWidth="700" frameHeight="700" />
+<SubTexture name="Richest Man0030" x="2973" y="2766" width="369" height="458" frameX="-151" frameY="-233" frameWidth="700" frameHeight="700" />
+<SubTexture name="Richest Man0031" x="3667" y="0" width="369" height="458" frameX="-151" frameY="-233" frameWidth="700" frameHeight="700" />
+<SubTexture name="Down0000" x="3897" y="3681" width="511" height="454" frameX="-112" frameY="-246" frameWidth="700" frameHeight="700" />
+<SubTexture name="Down0001" x="1480" y="3681" width="519" height="455" frameX="-106" frameY="-245" frameWidth="700" frameHeight="700" />
+<SubTexture name="Down0002" x="474" y="3224" width="538" height="457" frameX="-90" frameY="-243" frameWidth="700" frameHeight="700" />
+<SubTexture name="Down0003" x="0" y="2766" width="554" height="458" frameX="-76" frameY="-242" frameWidth="700" frameHeight="700" />
+<SubTexture name="Down0004" x="1012" y="3224" width="559" height="457" frameX="-71" frameY="-242" frameWidth="700" frameHeight="700" />
+<SubTexture name="Down0005" x="1571" y="3224" width="557" height="457" frameX="-69" frameY="-242" frameWidth="700" frameHeight="700" />
+<SubTexture name="Down0006" x="2128" y="3224" width="550" height="457" frameX="-70" frameY="-242" frameWidth="700" frameHeight="700" />
+<SubTexture name="Down0007" x="2678" y="3224" width="545" height="457" frameX="-72" frameY="-242" frameWidth="700" frameHeight="700" />
+<SubTexture name="Down0008" x="2678" y="3224" width="545" height="457" frameX="-72" frameY="-242" frameWidth="700" frameHeight="700" />
+<SubTexture name="Down0009" x="2678" y="3224" width="545" height="457" frameX="-72" frameY="-242" frameWidth="700" frameHeight="700" />
+<SubTexture name="Down0010" x="2678" y="3224" width="545" height="457" frameX="-72" frameY="-242" frameWidth="700" frameHeight="700" />
+<SubTexture name="Down0011" x="2678" y="3224" width="545" height="457" frameX="-72" frameY="-242" frameWidth="700" frameHeight="700" />
+<SubTexture name="Down0012" x="2678" y="3224" width="545" height="457" frameX="-72" frameY="-242" frameWidth="700" frameHeight="700" />
+<SubTexture name="Left0000" x="1440" y="1385" width="385" height="460" frameX="-181" frameY="-234" frameWidth="700" frameHeight="700" />
+<SubTexture name="Left0001" x="1825" y="1385" width="400" height="460" frameX="-180" frameY="-234" frameWidth="700" frameHeight="700" />
+<SubTexture name="Left0002" x="1008" y="1385" width="432" height="460" frameX="-177" frameY="-235" frameWidth="700" frameHeight="700" />
+<SubTexture name="Left0003" x="3193" y="458" width="439" height="458" frameX="-172" frameY="-236" frameWidth="700" frameHeight="700" />
+<SubTexture name="Left0004" x="4036" y="456" width="411" height="456" frameX="-169" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Left0005" x="4036" y="912" width="387" height="456" frameX="-167" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Left0006" x="4036" y="1368" width="381" height="456" frameX="-167" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Left0007" x="4036" y="1368" width="381" height="456" frameX="-167" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Left0008" x="4036" y="1368" width="381" height="456" frameX="-167" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Left0009" x="4036" y="1368" width="381" height="456" frameX="-167" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Left0010" x="4036" y="1368" width="381" height="456" frameX="-167" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Left0011" x="4036" y="1368" width="381" height="456" frameX="-167" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Left0012" x="4036" y="1368" width="381" height="456" frameX="-167" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Right0000" x="4956" y="1362" width="434" height="453" frameX="-123" frameY="-237" frameWidth="700" frameHeight="700" />
+<SubTexture name="Right0001" x="4509" y="0" width="447" height="454" frameX="-120" frameY="-237" frameWidth="700" frameHeight="700" />
+<SubTexture name="Right0002" x="4036" y="0" width="473" height="456" frameX="-117" frameY="-237" frameWidth="700" frameHeight="700" />
+<SubTexture name="Right0003" x="3223" y="3224" width="496" height="457" frameX="-114" frameY="-237" frameWidth="700" frameHeight="700" />
+<SubTexture name="Right0004" x="0" y="3681" width="506" height="456" frameX="-111" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Right0005" x="2280" y="920" width="506" height="459" frameX="-111" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Right0006" x="2280" y="920" width="506" height="459" frameX="-111" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Right0007" x="2280" y="920" width="506" height="459" frameX="-111" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Right0008" x="2280" y="920" width="506" height="459" frameX="-111" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Right0009" x="2280" y="920" width="506" height="459" frameX="-111" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Right0010" x="2280" y="920" width="506" height="459" frameX="-111" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Right0011" x="2280" y="920" width="506" height="459" frameX="-111" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Right0012" x="2280" y="920" width="506" height="459" frameX="-111" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Up0000" x="0" y="4137" width="492" height="454" frameX="-105" frameY="-237" frameWidth="700" frameHeight="700" />
+<SubTexture name="Up0001" x="538" y="4591" width="496" height="453" frameX="-103" frameY="-238" frameWidth="700" frameHeight="700" />
+<SubTexture name="Up0002" x="1034" y="4591" width="509" height="453" frameX="-98" frameY="-241" frameWidth="700" frameHeight="700" />
+<SubTexture name="Up0003" x="1543" y="4591" width="522" height="453" frameX="-92" frameY="-243" frameWidth="700" frameHeight="700" />
+<SubTexture name="Up0004" x="2065" y="4591" width="529" height="453" frameX="-88" frameY="-243" frameWidth="700" frameHeight="700" />
+<SubTexture name="Up0005" x="492" y="4137" width="528" height="454" frameX="-87" frameY="-242" frameWidth="700" frameHeight="700" />
+<SubTexture name="Up0006" x="1020" y="4137" width="519" height="454" frameX="-91" frameY="-242" frameWidth="700" frameHeight="700" />
+<SubTexture name="Up0007" x="1539" y="4137" width="514" height="454" frameX="-93" frameY="-242" frameWidth="700" frameHeight="700" />
+<SubTexture name="Up0008" x="1539" y="4137" width="514" height="454" frameX="-93" frameY="-242" frameWidth="700" frameHeight="700" />
+<SubTexture name="Up0009" x="1539" y="4137" width="514" height="454" frameX="-93" frameY="-242" frameWidth="700" frameHeight="700" />
+<SubTexture name="Up0010" x="1539" y="4137" width="514" height="454" frameX="-93" frameY="-242" frameWidth="700" frameHeight="700" />
+<SubTexture name="Up0011" x="1539" y="4137" width="514" height="454" frameX="-93" frameY="-242" frameWidth="700" frameHeight="700" />
+<SubTexture name="Up0012" x="1539" y="4137" width="514" height="454" frameX="-93" frameY="-242" frameWidth="700" frameHeight="700" />
+</TextureAtlas>

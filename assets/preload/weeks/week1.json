@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Humiliation", "squidward", [103, 174, 175]],
+		["Mist", "lolward", [105, 157, 121]],
+		["Doomsday", "darkward", [171, 186, 183]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Mistful Crimson Morning",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"difficulties": "Hard",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

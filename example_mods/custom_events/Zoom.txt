@@ -1,0 +1,4 @@
+zooooom
+
+value 1: camera zooming in/out (1.0 is default)
+value 2: speed of tween 

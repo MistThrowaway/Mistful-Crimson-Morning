@@ -1,0 +1,4 @@
+Create a flash effect.
+(Flash image file located in images/FX)
+
+Values don't affect anything. 

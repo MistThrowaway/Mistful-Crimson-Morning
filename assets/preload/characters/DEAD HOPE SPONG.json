@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Dead Hope Spong Idle"
+		},
+		{
+			"offsets": [
+				70,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Dead Hope Spong Left"
+		},
+		{
+			"offsets": [
+				0,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Dead Hope Spong Up"
+		},
+		{
+			"offsets": [
+				-90,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Dead Hope Spong Right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Dead Hope Spong Down"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Dead Hope Spong",
+	"position": [
+		-180,
+		-110
+	],
+	"healthicon": "faceless",
+	"flip_x": false,
+	"healthbar_colors": [
+		197,
+		48,
+		47
+	],
+	"camera_position": [
+		-150,
+		100
+	],
+	"sing_duration": 6,
+	"scale": 1
+}

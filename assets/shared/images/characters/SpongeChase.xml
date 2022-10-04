@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SpongeChase.png"><SubTexture name="SpongeChase Idle0000" x="538" y="2237" width="538" height="343" frameX="-95" frameY="-186" frameWidth="739" frameHeight="708" />
+<SubTexture name="SpongeChase Idle0001" x="0" y="2237" width="538" height="345" frameX="-95" frameY="-186" frameWidth="739" frameHeight="708" />
+<SubTexture name="SpongeChase Idle0002" x="1129" y="1877" width="538" height="354" frameX="-95" frameY="-186" frameWidth="739" frameHeight="708" />
+<SubTexture name="SpongeChase Right0000" x="0" y="1497" width="412" height="380" frameX="-187" frameY="-166" frameWidth="739" frameHeight="708" />
+<SubTexture name="SpongeChase Right0001" x="405" y="1113" width="405" height="382" frameX="-193" frameY="-165" frameWidth="739" frameHeight="708" />
+<SubTexture name="SpongeChase Right0002" x="1609" y="530" width="403" height="384" frameX="-195" frameY="-165" frameWidth="739" frameHeight="708" />
+<SubTexture name="SpongeChase Right0003" x="1214" y="1113" width="403" height="381" frameX="-194" frameY="-165" frameWidth="739" frameHeight="708" />
+<SubTexture name="SpongeChase Right0004" x="810" y="1113" width="404" height="382" frameX="-193" frameY="-165" frameWidth="739" frameHeight="708" />
+<SubTexture name="SpongeChase Right0005" x="1617" y="1113" width="404" height="381" frameX="-193" frameY="-165" frameWidth="739" frameHeight="708" />
+<SubTexture name="SpongeChase Right0006" x="0" y="1113" width="405" height="384" frameX="-193" frameY="-165" frameWidth="739" frameHeight="708" />
+<SubTexture name="SpongeChase Down0000" x="412" y="1497" width="479" height="375" frameX="-129" frameY="-322" frameWidth="739" frameHeight="708" />
+<SubTexture name="SpongeChase Down0001" x="891" y="1497" width="472" height="375" frameX="-137" frameY="-328" frameWidth="739" frameHeight="708" />
+<SubTexture name="SpongeChase Down0002" x="1363" y="1497" width="471" height="375" frameX="-138" frameY="-330" frameWidth="739" frameHeight="708" />
+<SubTexture name="SpongeChase Down0003" x="2117" y="748" width="472" height="373" frameX="-137" frameY="-331" frameWidth="739" frameHeight="708" />
+<SubTexture name="SpongeChase Down0004" x="2117" y="1121" width="474" height="373" frameX="-135" frameY="-330" frameWidth="739" frameHeight="708" />
+<SubTexture name="SpongeChase Down0005" x="2117" y="0" width="474" height="374" frameX="-135" frameY="-329" frameWidth="739" frameHeight="708" />
+<SubTexture name="SpongeChase Down0006" x="2117" y="374" width="474" height="374" frameX="-135" frameY="-329" frameWidth="739" frameHeight="708" />
+<SubTexture name="SpongeChase Left0000" x="1667" y="1877" width="565" height="354" frameX="-56" frameY="-191" frameWidth="739" frameHeight="708" />
+<SubTexture name="SpongeChase Left0001" x="2591" y="332" width="564" height="331" frameX="-52" frameY="-193" frameWidth="739" frameHeight="708" />
+<SubTexture name="SpongeChase Left0002" x="1639" y="2237" width="566" height="336" frameX="-50" frameY="-193" frameWidth="739" frameHeight="708" />
+<SubTexture name="SpongeChase Left0003" x="562" y="1877" width="567" height="356" frameX="-52" frameY="-196" frameWidth="739" frameHeight="708" />
+<SubTexture name="SpongeChase Left0004" x="2591" y="0" width="564" height="332" frameX="-57" frameY="-198" frameWidth="739" frameHeight="708" />
+<SubTexture name="SpongeChase Left0005" x="1076" y="2237" width="563" height="339" frameX="-59" frameY="-198" frameWidth="739" frameHeight="708" />
+<SubTexture name="SpongeChase Up0000" x="0" y="1877" width="562" height="360" frameX="-60" frameY="-199" frameWidth="739" frameHeight="708" />
+<SubTexture name="SpongeChase Up0001" x="0" y="0" width="606" height="581" frameX="-48" frameY="-100" frameWidth="739" frameHeight="708" />
+<SubTexture name="SpongeChase Up0002" x="1609" y="0" width="508" height="530" frameX="-147" frameY="-95" frameWidth="739" frameHeight="708" />
+<SubTexture name="SpongeChase Up0003" x="1106" y="0" width="503" height="534" frameX="-150" frameY="-93" frameWidth="739" frameHeight="708" />
+<SubTexture name="SpongeChase Up0004" x="606" y="0" width="500" height="537" frameX="-152" frameY="-91" frameWidth="739" frameHeight="708" />
+<SubTexture name="SpongeChase Up0005" x="0" y="581" width="502" height="532" frameX="-150" frameY="-93" frameWidth="739" frameHeight="708" />
+<SubTexture name="SpongeChase Up0006" x="502" y="581" width="502" height="531" frameX="-150" frameY="-93" frameWidth="739" frameHeight="708" />
+<SubTexture name="SpongeChase Up0007" x="1004" y="581" width="503" height="531" frameX="-150" frameY="-93" frameWidth="739" frameHeight="708" />
+</TextureAtlas>

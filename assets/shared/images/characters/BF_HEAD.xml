@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BF HEAD.png">
+<SubTexture name="BF HEAD IDLE0000" x="1698" y="518" width="336" height="256" frameX="-169" frameY="-10" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF HEAD IDLE0001" x="1698" y="774" width="333" height="256" frameX="-173" frameY="-9" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF HEAD IDLE0002" x="1698" y="1030" width="331" height="256" frameX="-177" frameY="-11" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF HEAD IDLE0003" x="1698" y="1286" width="326" height="256" frameX="-179" frameY="-15" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF HEAD IDLE0004" x="1698" y="261" width="331" height="257" frameX="-170" frameY="-22" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF HEAD IDLE0005" x="341" y="859" width="343" height="272" frameX="-158" frameY="-25" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF HEAD IDLE0006" x="341" y="0" width="343" height="294" frameX="-152" frameY="-14" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF HEAD IDLE0007" x="0" y="859" width="341" height="273" frameX="-198" frameY="-2" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF HEAD IDLE0008" x="686" y="1132" width="343" height="267" frameX="-194" frameY="-5" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF HEAD IDLE0009" x="340" y="1402" width="346" height="262" frameX="-192" frameY="-8" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF HEAD IDLE0010" x="0" y="1666" width="347" height="259" frameX="-191" frameY="-10" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF HEAD IDLE0011" x="347" y="1666" width="344" height="259" frameX="-192" frameY="-13" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF HEAD IDLE0012" x="679" y="579" width="330" height="274" frameX="-178" frameY="-23" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF HEAD IDLE0013" x="0" y="0" width="341" height="295" frameX="-160" frameY="-14" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF HEAD Right0000" x="684" y="859" width="343" height="272" frameX="-221" frameY="-19" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF HEAD Right0001" x="1356" y="0" width="342" height="270" frameX="-224" frameY="-25" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF HEAD Right0002" x="1356" y="270" width="341" height="270" frameX="-224" frameY="-25" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF HEAD Right0003" x="0" y="1132" width="343" height="270" frameX="-223" frameY="-25" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF HEAD Right0004" x="343" y="1132" width="343" height="270" frameX="-223" frameY="-25" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF HEAD Down0000" x="684" y="0" width="338" height="280" frameX="-165" frameY="-43" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF HEAD Down0001" x="0" y="295" width="339" height="284" frameX="-165" frameY="-44" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF HEAD Down0002" x="339" y="295" width="337" height="282" frameX="-166" frameY="-43" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF HEAD Down0003" x="0" y="579" width="339" height="280" frameX="-166" frameY="-43" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF HEAD Down0004" x="339" y="579" width="340" height="279" frameX="-166" frameY="-43" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF HEAD Left0000" x="1027" y="1402" width="340" height="261" frameX="-136" frameY="-27" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF HEAD Left0001" x="1029" y="1132" width="339" height="264" frameX="-135" frameY="-26" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF HEAD Left0002" x="0" y="1402" width="340" height="264" frameX="-135" frameY="-26" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF HEAD Left0003" x="686" y="1402" width="341" height="262" frameX="-135" frameY="-26" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF HEAD Left0004" x="1698" y="0" width="341" height="261" frameX="-135" frameY="-27" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF HEAD Up0000" x="1022" y="0" width="334" height="274" frameX="-171" frameY="-10" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF HEAD Up0001" x="684" y="280" width="326" height="275" frameX="-178" frameY="-4" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF HEAD Up0002" x="1356" y="540" width="324" height="268" frameX="-182" frameY="-6" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF HEAD Up0003" x="1356" y="808" width="323" height="268" frameX="-183" frameY="-7" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF HEAD Up0004" x="1022" y="274" width="323" height="268" frameX="-182" frameY="-7" frameWidth="736" frameHeight="607" />
+</TextureAtlas>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Dead Hope Spong.png"><SubTexture name="Dead Hope Spong Idle0000" x="2145" y="1141" width="344" height="557" frameX="-175" frameY="-249" frameWidth="694" frameHeight="879" />
+<SubTexture name="Dead Hope Spong Right0000" x="878" y="1794" width="444" height="554" frameX="-120" frameY="-252" frameWidth="694" frameHeight="879" />
+<SubTexture name="Dead Hope Spong Right0001" x="0" y="1794" width="439" height="556" frameX="-132" frameY="-250" frameWidth="694" frameHeight="879" />
+<SubTexture name="Dead Hope Spong Right0002" x="439" y="1794" width="439" height="555" frameX="-134" frameY="-251" frameWidth="694" frameHeight="879" />
+<SubTexture name="Dead Hope Spong Right0003" x="1322" y="1794" width="437" height="553" frameX="-134" frameY="-253" frameWidth="694" frameHeight="879" />
+<SubTexture name="Dead Hope Spong Right0004" x="1759" y="1794" width="436" height="552" frameX="-134" frameY="-254" frameWidth="694" frameHeight="879" />
+<SubTexture name="Dead Hope Spong Right0005" x="2494" y="0" width="435" height="552" frameX="-134" frameY="-254" frameWidth="694" frameHeight="879" />
+<SubTexture name="Dead Hope Spong Right0006" x="2494" y="552" width="435" height="552" frameX="-134" frameY="-254" frameWidth="694" frameHeight="879" />
+<SubTexture name="Dead Hope Spong Down0000" x="0" y="0" width="524" height="601" frameX="-37" frameY="-204" frameWidth="694" frameHeight="879" />
+<SubTexture name="Dead Hope Spong Down0001" x="744" y="2350" width="375" height="465" frameX="-190" frameY="-339" frameWidth="694" frameHeight="879" />
+<SubTexture name="Dead Hope Spong Down0002" x="1119" y="2350" width="375" height="463" frameX="-191" frameY="-341" frameWidth="694" frameHeight="879" />
+<SubTexture name="Dead Hope Spong Down0003" x="371" y="2350" width="373" height="466" frameX="-190" frameY="-338" frameWidth="694" frameHeight="879" />
+<SubTexture name="Dead Hope Spong Down0004" x="0" y="2350" width="371" height="469" frameX="-190" frameY="-335" frameWidth="694" frameHeight="879" />
+<SubTexture name="Dead Hope Spong Down0005" x="2494" y="1576" width="373" height="471" frameX="-188" frameY="-333" frameWidth="694" frameHeight="879" />
+<SubTexture name="Dead Hope Spong Down0006" x="2494" y="1104" width="374" height="472" frameX="-187" frameY="-332" frameWidth="694" frameHeight="879" />
+<SubTexture name="Dead Hope Spong Left0000" x="540" y="1199" width="340" height="571" frameX="-150" frameY="-241" frameWidth="694" frameHeight="879" />
+<SubTexture name="Dead Hope Spong Left0001" x="880" y="1199" width="346" height="571" frameX="-147" frameY="-241" frameWidth="694" frameHeight="879" />
+<SubTexture name="Dead Hope Spong Left0002" x="1083" y="601" width="347" height="572" frameX="-146" frameY="-241" frameWidth="694" frameHeight="879" />
+<SubTexture name="Dead Hope Spong Left0003" x="1226" y="1199" width="347" height="571" frameX="-146" frameY="-242" frameWidth="694" frameHeight="879" />
+<SubTexture name="Dead Hope Spong Left0004" x="2145" y="571" width="347" height="570" frameX="-147" frameY="-243" frameWidth="694" frameHeight="879" />
+<SubTexture name="Dead Hope Spong Left0005" x="1573" y="1199" width="348" height="571" frameX="-147" frameY="-242" frameWidth="694" frameHeight="879" />
+<SubTexture name="Dead Hope Spong Left0006" x="2145" y="0" width="349" height="571" frameX="-147" frameY="-242" frameWidth="694" frameHeight="879" />
+<SubTexture name="Dead Hope Spong Up0000" x="1608" y="595" width="527" height="588" frameX="-63" frameY="-223" frameWidth="694" frameHeight="879" />
+<SubTexture name="Dead Hope Spong Up0001" x="1608" y="0" width="537" height="595" frameX="-59" frameY="-217" frameWidth="694" frameHeight="879" />
+<SubTexture name="Dead Hope Spong Up0002" x="1067" y="0" width="541" height="598" frameX="-57" frameY="-215" frameWidth="694" frameHeight="879" />
+<SubTexture name="Dead Hope Spong Up0003" x="524" y="0" width="543" height="599" frameX="-56" frameY="-214" frameWidth="694" frameHeight="879" />
+<SubTexture name="Dead Hope Spong Up0004" x="0" y="601" width="542" height="598" frameX="-56" frameY="-215" frameWidth="694" frameHeight="879" />
+<SubTexture name="Dead Hope Spong Up0005" x="542" y="601" width="541" height="597" frameX="-57" frameY="-216" frameWidth="694" frameHeight="879" />
+<SubTexture name="Dead Hope Spong Up0006" x="0" y="1199" width="540" height="595" frameX="-57" frameY="-217" frameWidth="694" frameHeight="879" />
+</TextureAtlas>

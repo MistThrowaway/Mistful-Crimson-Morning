@@ -1,0 +1,31 @@
+{
+	"songs": [
+		["Sanguilacrimae", "canonsquiddy", [182, 203, 194]],
+		["Tortured", "TP", [10, 10, 10]],
+		["Served", "plankton", [63, 92, 93]],
+		["Satisfaction", "spongebob", [255, 198, 26]],
+		["Dead-Hope", "faceless", [197, 48, 47]],
+		["Dumped", "bootleg", [60, 83, 47]],
+		["Cannibalism", "rckr", [130, 6, 24]],
+		["Propaganda", "reagan", [116, 79, 77]],
+		["Dehydrated", "driedup", [181, 149, 26]],
+		["Joe-Mama", "joe", [105, 157, 121]],
+		["Plagerize", "fred", [116, 79, 77]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Freeplay Only",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"difficulties": "Hard",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

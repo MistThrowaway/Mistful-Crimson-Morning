@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-60
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SpongeChase Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SpongeChase Idle"
+		},
+		{
+			"offsets": [
+				130,
+				1
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SpongeChase Left"
+		},
+		{
+			"offsets": [
+				-100,
+				-10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SpongeChase Right"
+		},
+		{
+			"offsets": [
+				50,
+				130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SpongeChase Up"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/SpongeChase",
+	"position": [
+		100,
+		-100
+	],
+	"healthicon": "faceless",
+	"flip_x": false,
+	"healthbar_colors": [
+		197,
+		48,
+		47
+	],
+	"camera_position": [
+		-240,
+		130
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

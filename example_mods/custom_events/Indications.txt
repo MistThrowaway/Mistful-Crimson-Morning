@@ -1,0 +1,7 @@
+yahoo
+
+value 1: name of the image
+
+NOTE: if you want to change image then ur image 
+should be 1280x720
+or change offsets in .lua file

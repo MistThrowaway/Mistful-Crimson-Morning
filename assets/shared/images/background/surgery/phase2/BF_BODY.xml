@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BF BODY.png">
+<SubTexture name="BF BODY idle0000" x="827" y="813" width="294" height="279" frameX="-198" frameY="-241" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF BODY idle0001" x="1305" y="0" width="289" height="273" frameX="-205" frameY="-242" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF BODY idle0002" x="1305" y="546" width="286" height="271" frameX="-209" frameY="-244" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF BODY idle0003" x="278" y="813" width="284" height="282" frameX="-211" frameY="-249" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF BODY idle0004" x="0" y="813" width="278" height="288" frameX="-209" frameY="-251" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF BODY idle0005" x="0" y="506" width="286" height="307" frameX="-203" frameY="-255" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF BODY idle0006" x="866" y="506" width="294" height="293" frameX="-223" frameY="-258" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF BODY idle0007" x="0" y="0" width="437" height="506" frameX="-233" frameY="-17" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF BODY idle0008" x="437" y="0" width="433" height="500" frameX="-237" frameY="-17" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF BODY idle0009" x="870" y="0" width="435" height="499" frameX="-235" frameY="-17" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF BODY idle0010" x="1305" y="273" width="263" height="273" frameX="-234" frameY="-244" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF BODY idle0011" x="562" y="813" width="265" height="281" frameX="-232" frameY="-247" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF BODY idle0012" x="572" y="506" width="294" height="296" frameX="-223" frameY="-255" frameWidth="736" frameHeight="607" />
+<SubTexture name="BF BODY idle0013" x="286" y="506" width="286" height="301" frameX="-203" frameY="-261" frameWidth="736" frameHeight="607" />
+</TextureAtlas>

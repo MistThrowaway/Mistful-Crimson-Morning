@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+<<<<<<< Updated upstream:assets/preload/characters/BESTCHARACTER.json
+			"fps": 24,
+			"anim": "singLEFT",
+=======
+			"loop": true,
+			"fps": 60,
+			"anim": "idle",
+>>>>>>> Stashed changes:assets/preload/characters/dry_chase.json
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-10
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BESTCHARACTER_assets",
+	"position": [
+<<<<<<< Updated upstream:assets/preload/characters/BESTCHARACTER.json
+		-450,
+		100
+=======
+		-200,
+		-100
+>>>>>>> Stashed changes:assets/preload/characters/dry_chase.json
+	],
+	"healthicon": "fred",
+	"flip_x": false,
+	"healthbar_colors": [
+		116,
+		79,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

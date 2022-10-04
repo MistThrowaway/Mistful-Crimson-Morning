@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DeadHallway.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="deadhallway0000" x="0" y="0" width="2564" height="1400"/>
+	<SubTexture name="deadhallway0001" x="2564" y="0" width="2564" height="1400"/>
+	<SubTexture name="deadhallway0002" x="5128" y="0" width="2564" height="1400"/>
+	<SubTexture name="deadhallway0003" x="0" y="1400" width="2564" height="1400"/>
+	<SubTexture name="deadhallway0004" x="2564" y="1400" width="2564" height="1400"/>
+	<SubTexture name="deadhallway0005" x="5128" y="1400" width="2564" height="1400"/>
+	<SubTexture name="deadhallway0006" x="0" y="2800" width="2564" height="1400"/>
+	<SubTexture name="deadhallway0007" x="0" y="0" width="2564" height="1400"/>
+</TextureAtlas>

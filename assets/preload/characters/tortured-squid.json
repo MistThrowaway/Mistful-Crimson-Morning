@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				160
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "IdleSquid",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				160
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "IdleSquid",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				160
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "IdleSquid",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				160
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "IdleSquid",
+			"indices": []
+		},
+		{
+			"offsets": [
+				100,
+				160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IdleSquid"
+		},
+		{
+			"offsets": [
+				102,
+				180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LeftSquid"
+		},
+		{
+			"offsets": [
+				82,
+				149
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DownSquid"
+		},
+		{
+			"offsets": [
+				85,
+				155
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UpSquid"
+		},
+		{
+			"offsets": [
+				90,
+				160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RightSquid"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tortured_squid",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "TS",
+	"flip_x": true,
+	"healthbar_colors": [
+		110,
+		110,
+		110
+	],
+	"camera_position": [
+		-330,
+		260
+	],
+	"sing_duration": 4,
+	"scale": 0.2
+}

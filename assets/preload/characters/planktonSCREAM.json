@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": false,
+			"name": "plankton scream anim"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/served_anim_spritethingy",
+	"position": [
+		-100,
+		450
+	],
+	"healthicon": "plankton",
+	"flip_x": false,
+	"healthbar_colors": [
+		102,
+		102,
+		51
+	],
+	"camera_position": [
+		-60,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

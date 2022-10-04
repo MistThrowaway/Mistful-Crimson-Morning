@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="title sprite squid.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="squidy_titleanim0000" x="0" y="0" width="528" height="812" frameX="0" frameY="-4" frameWidth="528" frameHeight="816"/>
+	<SubTexture name="squidy_titleanim0001" x="528" y="0" width="528" height="812" frameX="0" frameY="-4" frameWidth="528" frameHeight="816"/>
+	<SubTexture name="squidy_titleanim0002" x="1056" y="0" width="506" height="807" frameX="-19" frameY="-4" frameWidth="528" frameHeight="816"/>
+	<SubTexture name="squidy_titleanim0003" x="1562" y="0" width="506" height="807" frameX="-19" frameY="-4" frameWidth="528" frameHeight="816"/>
+	<SubTexture name="squidy_titleanim0004" x="2068" y="0" width="478" height="797" frameX="-36" frameY="-2" frameWidth="528" frameHeight="816"/>
+	<SubTexture name="squidy_titleanim0005" x="2546" y="0" width="478" height="797" frameX="-36" frameY="-2" frameWidth="528" frameHeight="816"/>
+	<SubTexture name="squidy_titleanim0006" x="3024" y="0" width="472" height="793" frameX="-40" frameY="-2" frameWidth="528" frameHeight="816"/>
+	<SubTexture name="squidy_titleanim0007" x="3496" y="0" width="472" height="793" frameX="-40" frameY="-2" frameWidth="528" frameHeight="816"/>
+	<SubTexture name="squidy_titleanim0008" x="0" y="812" width="475" height="795" frameX="-42" frameY="0" frameWidth="528" frameHeight="816"/>
+	<SubTexture name="squidy_titleanim0009" x="475" y="812" width="475" height="795" frameX="-42" frameY="0" frameWidth="528" frameHeight="816"/>
+	<SubTexture name="squidy_titleanim0010" x="950" y="812" width="475" height="795" frameX="-42" frameY="0" frameWidth="528" frameHeight="816"/>
+	<SubTexture name="squidy_titleanim0011" x="1425" y="812" width="475" height="795" frameX="-42" frameY="0" frameWidth="528" frameHeight="816"/>
+	<SubTexture name="squidy_titleanim0012" x="1900" y="812" width="475" height="795" frameX="-42" frameY="0" frameWidth="528" frameHeight="816"/>
+	<SubTexture name="squidy_titleanim0013" x="2375" y="812" width="475" height="795" frameX="-42" frameY="0" frameWidth="528" frameHeight="816"/>
+	<SubTexture name="squidy_titleanim0014" x="2850" y="812" width="475" height="795" frameX="-42" frameY="0" frameWidth="528" frameHeight="816"/>
+	<SubTexture name="squidy_titleanim0015" x="3325" y="812" width="475" height="795" frameX="-42" frameY="0" frameWidth="528" frameHeight="816"/>
+	<SubTexture name="squidy_titleanim0016" x="0" y="1607" width="475" height="795" frameX="-42" frameY="0" frameWidth="528" frameHeight="816"/>
+	<SubTexture name="squidy_titleanim0017" x="475" y="1607" width="475" height="795" frameX="-42" frameY="0" frameWidth="528" frameHeight="816"/>
+	<SubTexture name="squidy_titleanim0018" x="950" y="1607" width="475" height="795" frameX="-42" frameY="0" frameWidth="528" frameHeight="816"/>
+	<SubTexture name="squidy_titleanim0019" x="1425" y="1607" width="475" height="795" frameX="-42" frameY="0" frameWidth="528" frameHeight="816"/>
+</TextureAtlas>

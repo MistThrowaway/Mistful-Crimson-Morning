@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Hes fucking dead.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Shoot himself0000" x="0" y="0" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0001" x="1157" y="0" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0002" x="2314" y="0" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0003" x="3471" y="0" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0004" x="4628" y="0" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0005" x="5785" y="0" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0006" x="6942" y="0" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0007" x="0" y="902" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0008" x="1157" y="902" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0009" x="2314" y="902" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0010" x="3471" y="902" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0011" x="4628" y="902" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0012" x="5785" y="902" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0013" x="6942" y="902" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0014" x="0" y="1804" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0015" x="1157" y="1804" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0016" x="2314" y="1804" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0017" x="3471" y="1804" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0018" x="4628" y="1804" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0019" x="5785" y="1804" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0020" x="6942" y="1804" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0021" x="0" y="2706" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0022" x="1157" y="2706" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0023" x="2314" y="2706" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0024" x="3471" y="2706" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0025" x="4628" y="2706" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0026" x="5785" y="2706" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0027" x="6942" y="2706" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0028" x="0" y="3608" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0029" x="1157" y="3608" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0030" x="2314" y="3608" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0031" x="3471" y="3608" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0032" x="4628" y="3608" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0033" x="5785" y="3608" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0034" x="6942" y="3608" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0035" x="0" y="4510" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0036" x="1157" y="4510" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0037" x="2314" y="4510" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0038" x="3471" y="4510" width="1157" height="902"/>
+	<SubTexture name="DEAD0000" x="3471" y="4510" width="1157" height="902"/>
+</TextureAtlas>

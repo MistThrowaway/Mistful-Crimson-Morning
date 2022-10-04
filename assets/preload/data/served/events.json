@@ -1,0 +1,109 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "served",
+		"player1": "bf2",
+		"player2": "plankton",
+		"player3": null,
+		"events": [
+			[
+				16500,
+				[
+					[
+						"Light",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.045",
+						"0.09"
+					]
+				]
+			],
+			[
+				76500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.045",
+						"0.09"
+					]
+				]
+			],
+			[
+				100500,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"1"
+					],
+					[
+						"Light",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				102632.352941176,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				104985.294117647,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				107558.823529412,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"1"
+					]
+				]
+			],
+			[
+				166088.235294118,
+				[
+					[
+						"Light",
+						"0.5",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"0.4",
+						"1"
+					],
+					[
+						"Add Camera Zoom",
+						"1",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 160,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "served"
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				346,
+				366
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				286,
+				306
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				296,
+				296
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				316,
+				286
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				356,
+				336
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tortured_star",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "TP",
+	"flip_x": false,
+	"healthbar_colors": [
+		110,
+		110,
+		110
+	],
+	"camera_position": [
+		100,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

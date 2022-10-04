@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Reagan.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DownReagan0000" x="0" y="0" width="400" height="945"/>
+	<SubTexture name="DownReagan0001" x="0" y="0" width="400" height="945"/>
+	<SubTexture name="DownReagan0002" x="400" y="0" width="371" height="927" frameX="-18" frameY="-2" frameWidth="400" frameHeight="945"/>
+	<SubTexture name="DownReagan0003" x="400" y="0" width="371" height="927" frameX="-18" frameY="-2" frameWidth="400" frameHeight="945"/>
+	<SubTexture name="DownReagan0004" x="400" y="0" width="371" height="927" frameX="-18" frameY="-2" frameWidth="400" frameHeight="945"/>
+	<SubTexture name="DownReagan0005" x="400" y="0" width="371" height="927" frameX="-18" frameY="-2" frameWidth="400" frameHeight="945"/>
+	<SubTexture name="DownReagan0006" x="400" y="0" width="371" height="927" frameX="-18" frameY="-2" frameWidth="400" frameHeight="945"/>
+	<SubTexture name="DownReagan0007" x="400" y="0" width="371" height="927" frameX="-18" frameY="-2" frameWidth="400" frameHeight="945"/>
+	<SubTexture name="DownReagan0008" x="400" y="0" width="371" height="927" frameX="-18" frameY="-2" frameWidth="400" frameHeight="945"/>
+	<SubTexture name="DownReagan0009" x="400" y="0" width="371" height="927" frameX="-18" frameY="-2" frameWidth="400" frameHeight="945"/>
+	<SubTexture name="DownReagan0010" x="400" y="0" width="371" height="927" frameX="-18" frameY="-2" frameWidth="400" frameHeight="945"/>
+	<SubTexture name="DownReagan0011" x="400" y="0" width="371" height="927" frameX="-18" frameY="-2" frameWidth="400" frameHeight="945"/>
+	<SubTexture name="DownReagan0012" x="400" y="0" width="371" height="927" frameX="-18" frameY="-2" frameWidth="400" frameHeight="945"/>
+	<SubTexture name="DownReagan0013" x="400" y="0" width="371" height="927" frameX="-18" frameY="-2" frameWidth="400" frameHeight="945"/>
+	<SubTexture name="DownReagan0014" x="400" y="0" width="371" height="927" frameX="-18" frameY="-2" frameWidth="400" frameHeight="945"/>
+	<SubTexture name="IdleReagan0000" x="771" y="0" width="509" height="955" frameX="0" frameY="-1" frameWidth="509" frameHeight="956"/>
+	<SubTexture name="IdleReagan0001" x="771" y="0" width="509" height="955" frameX="0" frameY="-1" frameWidth="509" frameHeight="956"/>
+	<SubTexture name="IdleReagan0002" x="1280" y="0" width="503" height="954" frameX="-3" frameY="0" frameWidth="509" frameHeight="956"/>
+	<SubTexture name="IdleReagan0003" x="1280" y="0" width="503" height="954" frameX="-3" frameY="0" frameWidth="509" frameHeight="956"/>
+	<SubTexture name="IdleReagan0004" x="1783" y="0" width="473" height="940" frameX="-26" frameY="-5" frameWidth="509" frameHeight="956"/>
+	<SubTexture name="IdleReagan0005" x="1783" y="0" width="473" height="940" frameX="-26" frameY="-5" frameWidth="509" frameHeight="956"/>
+	<SubTexture name="IdleReagan0006" x="2256" y="0" width="460" height="935" frameX="-36" frameY="-7" frameWidth="509" frameHeight="956"/>
+	<SubTexture name="IdleReagan0007" x="2256" y="0" width="460" height="935" frameX="-36" frameY="-7" frameWidth="509" frameHeight="956"/>
+	<SubTexture name="IdleReagan0008" x="2256" y="0" width="460" height="935" frameX="-36" frameY="-7" frameWidth="509" frameHeight="956"/>
+	<SubTexture name="IdleReagan0009" x="2256" y="0" width="460" height="935" frameX="-36" frameY="-7" frameWidth="509" frameHeight="956"/>
+	<SubTexture name="IdleReagan0010" x="2256" y="0" width="460" height="935" frameX="-36" frameY="-7" frameWidth="509" frameHeight="956"/>
+	<SubTexture name="IdleReagan0011" x="2256" y="0" width="460" height="935" frameX="-36" frameY="-7" frameWidth="509" frameHeight="956"/>
+	<SubTexture name="IdleReagan0012" x="2256" y="0" width="460" height="935" frameX="-36" frameY="-7" frameWidth="509" frameHeight="956"/>
+	<SubTexture name="IdleReagan0013" x="2256" y="0" width="460" height="935" frameX="-36" frameY="-7" frameWidth="509" frameHeight="956"/>
+	<SubTexture name="LeftReagan0000" x="2716" y="0" width="565" height="951"/>
+	<SubTexture name="LeftReagan0001" x="2716" y="0" width="565" height="951"/>
+	<SubTexture name="LeftReagan0002" x="3281" y="0" width="515" height="938" frameX="-29" frameY="-7" frameWidth="565" frameHeight="951"/>
+	<SubTexture name="LeftReagan0003" x="3281" y="0" width="515" height="938" frameX="-29" frameY="-7" frameWidth="565" frameHeight="951"/>
+	<SubTexture name="LeftReagan0004" x="3281" y="0" width="515" height="938" frameX="-29" frameY="-7" frameWidth="565" frameHeight="951"/>
+	<SubTexture name="LeftReagan0005" x="3281" y="0" width="515" height="938" frameX="-29" frameY="-7" frameWidth="565" frameHeight="951"/>
+	<SubTexture name="LeftReagan0006" x="3281" y="0" width="515" height="938" frameX="-29" frameY="-7" frameWidth="565" frameHeight="951"/>
+	<SubTexture name="LeftReagan0007" x="3281" y="0" width="515" height="938" frameX="-29" frameY="-7" frameWidth="565" frameHeight="951"/>
+	<SubTexture name="LeftReagan0008" x="3281" y="0" width="515" height="938" frameX="-29" frameY="-7" frameWidth="565" frameHeight="951"/>
+	<SubTexture name="LeftReagan0009" x="3281" y="0" width="515" height="938" frameX="-29" frameY="-7" frameWidth="565" frameHeight="951"/>
+	<SubTexture name="LeftReagan0010" x="3281" y="0" width="515" height="938" frameX="-29" frameY="-7" frameWidth="565" frameHeight="951"/>
+	<SubTexture name="LeftReagan0011" x="3281" y="0" width="515" height="938" frameX="-29" frameY="-7" frameWidth="565" frameHeight="951"/>
+	<SubTexture name="LeftReagan0012" x="3281" y="0" width="515" height="938" frameX="-29" frameY="-7" frameWidth="565" frameHeight="951"/>
+	<SubTexture name="LeftReagan0013" x="3281" y="0" width="515" height="938" frameX="-29" frameY="-7" frameWidth="565" frameHeight="951"/>
+	<SubTexture name="LeftReagan0014" x="3281" y="0" width="515" height="938" frameX="-29" frameY="-7" frameWidth="565" frameHeight="951"/>
+	<SubTexture name="RightReagan0000" x="0" y="955" width="704" height="949"/>
+	<SubTexture name="RightReagan0001" x="0" y="955" width="704" height="949"/>
+	<SubTexture name="RightReagan0002" x="704" y="955" width="666" height="929" frameX="-15" frameY="-13" frameWidth="704" frameHeight="949"/>
+	<SubTexture name="RightReagan0003" x="704" y="955" width="666" height="929" frameX="-15" frameY="-13" frameWidth="704" frameHeight="949"/>
+	<SubTexture name="RightReagan0004" x="704" y="955" width="666" height="929" frameX="-15" frameY="-13" frameWidth="704" frameHeight="949"/>
+	<SubTexture name="RightReagan0005" x="704" y="955" width="666" height="929" frameX="-15" frameY="-13" frameWidth="704" frameHeight="949"/>
+	<SubTexture name="RightReagan0006" x="704" y="955" width="666" height="929" frameX="-15" frameY="-13" frameWidth="704" frameHeight="949"/>
+	<SubTexture name="RightReagan0007" x="704" y="955" width="666" height="929" frameX="-15" frameY="-13" frameWidth="704" frameHeight="949"/>
+	<SubTexture name="RightReagan0008" x="704" y="955" width="666" height="929" frameX="-15" frameY="-13" frameWidth="704" frameHeight="949"/>
+	<SubTexture name="RightReagan0009" x="704" y="955" width="666" height="929" frameX="-15" frameY="-13" frameWidth="704" frameHeight="949"/>
+	<SubTexture name="RightReagan0010" x="704" y="955" width="666" height="929" frameX="-15" frameY="-13" frameWidth="704" frameHeight="949"/>
+	<SubTexture name="RightReagan0011" x="704" y="955" width="666" height="929" frameX="-15" frameY="-13" frameWidth="704" frameHeight="949"/>
+	<SubTexture name="RightReagan0012" x="704" y="955" width="666" height="929" frameX="-15" frameY="-13" frameWidth="704" frameHeight="949"/>
+	<SubTexture name="RightReagan0013" x="704" y="955" width="666" height="929" frameX="-15" frameY="-13" frameWidth="704" frameHeight="949"/>
+	<SubTexture name="RightReagan0014" x="704" y="955" width="666" height="929" frameX="-15" frameY="-13" frameWidth="704" frameHeight="949"/>
+	<SubTexture name="UpReagan0000" x="1370" y="955" width="713" height="965" frameX="0" frameY="0" frameWidth="1026" frameHeight="1106"/>
+	<SubTexture name="UpReagan0001" x="1370" y="955" width="713" height="965" frameX="0" frameY="0" frameWidth="1026" frameHeight="1106"/>
+	<SubTexture name="UpReagan0002" x="2083" y="955" width="1019" height="1094" frameX="-7" frameY="-12" frameWidth="1026" frameHeight="1106"/>
+	<SubTexture name="UpReagan0003" x="2083" y="955" width="1019" height="1094" frameX="-7" frameY="-12" frameWidth="1026" frameHeight="1106"/>
+	<SubTexture name="UpReagan0004" x="2083" y="955" width="1019" height="1094" frameX="-7" frameY="-12" frameWidth="1026" frameHeight="1106"/>
+	<SubTexture name="UpReagan0005" x="2083" y="955" width="1019" height="1094" frameX="-7" frameY="-12" frameWidth="1026" frameHeight="1106"/>
+	<SubTexture name="UpReagan0006" x="2083" y="955" width="1019" height="1094" frameX="-7" frameY="-12" frameWidth="1026" frameHeight="1106"/>
+	<SubTexture name="UpReagan0007" x="2083" y="955" width="1019" height="1094" frameX="-7" frameY="-12" frameWidth="1026" frameHeight="1106"/>
+	<SubTexture name="UpReagan0008" x="2083" y="955" width="1019" height="1094" frameX="-7" frameY="-12" frameWidth="1026" frameHeight="1106"/>
+	<SubTexture name="UpReagan0009" x="2083" y="955" width="1019" height="1094" frameX="-7" frameY="-12" frameWidth="1026" frameHeight="1106"/>
+	<SubTexture name="UpReagan0010" x="2083" y="955" width="1019" height="1094" frameX="-7" frameY="-12" frameWidth="1026" frameHeight="1106"/>
+	<SubTexture name="UpReagan0011" x="2083" y="955" width="1019" height="1094" frameX="-7" frameY="-12" frameWidth="1026" frameHeight="1106"/>
+	<SubTexture name="UpReagan0012" x="2083" y="955" width="1019" height="1094" frameX="-7" frameY="-12" frameWidth="1026" frameHeight="1106"/>
+	<SubTexture name="UpReagan0013" x="2083" y="955" width="1019" height="1094" frameX="-7" frameY="-12" frameWidth="1026" frameHeight="1106"/>
+	<SubTexture name="UpReagan0014" x="2083" y="955" width="1019" height="1094" frameX="-7" frameY="-12" frameWidth="1026" frameHeight="1106"/>
+</TextureAtlas>

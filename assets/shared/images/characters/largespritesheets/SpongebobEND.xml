@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SpongebobEND.png">
+<SubTexture name="ALNHTAP0000" x="2801" y="2122" width="529" height="423" frameX="-68" frameY="-277" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0001" x="2801" y="850" width="547" height="424" frameX="-38" frameY="-276" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0002" x="1648" y="854" width="563" height="426" frameX="-64" frameY="-274" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0003" x="577" y="863" width="579" height="427" frameX="-58" frameY="-273" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0004" x="1648" y="0" width="582" height="427" frameX="-56" frameY="-273" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0005" x="571" y="1718" width="573" height="425" frameX="-62" frameY="-275" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0006" x="1076" y="430" width="546" height="428" frameX="-78" frameY="-272" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0007" x="543" y="0" width="533" height="431" frameX="-85" frameY="-269" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0008" x="0" y="0" width="543" height="432" frameX="-78" frameY="-268" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0009" x="0" y="432" width="561" height="431" frameX="-68" frameY="-269" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0010" x="1076" y="0" width="572" height="430" frameX="-63" frameY="-270" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0011" x="0" y="863" width="577" height="429" frameX="-59" frameY="-271" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0012" x="1648" y="427" width="578" height="427" frameX="-56" frameY="-273" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0013" x="0" y="1292" width="570" height="426" frameX="-58" frameY="-274" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0014" x="570" y="1292" width="571" height="426" frameX="-57" frameY="-274" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0015" x="1141" y="1292" width="571" height="426" frameX="-57" frameY="-274" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0016" x="0" y="1718" width="571" height="426" frameX="-57" frameY="-274" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0017" x="1144" y="1718" width="571" height="425" frameX="-57" frameY="-275" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0018" x="2230" y="0" width="571" height="425" frameX="-57" frameY="-275" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0019" x="2230" y="425" width="571" height="425" frameX="-57" frameY="-275" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0020" x="2230" y="850" width="571" height="425" frameX="-57" frameY="-275" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0021" x="2230" y="1275" width="571" height="425" frameX="-57" frameY="-275" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0022" x="2230" y="1700" width="571" height="425" frameX="-57" frameY="-275" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0023" x="0" y="2144" width="571" height="425" frameX="-57" frameY="-275" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0024" x="571" y="2144" width="571" height="425" frameX="-57" frameY="-275" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0025" x="1142" y="2144" width="571" height="425" frameX="-57" frameY="-275" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0026" x="1713" y="2144" width="571" height="425" frameX="-57" frameY="-275" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0027" x="2801" y="0" width="563" height="425" frameX="-58" frameY="-275" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0028" x="2801" y="425" width="532" height="425" frameX="-57" frameY="-275" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0029" x="2801" y="1274" width="462" height="424" frameX="-76" frameY="-276" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0030" x="2801" y="1698" width="415" height="424" frameX="-127" frameY="-276" frameWidth="700" frameHeight="700" />
+<SubTexture name="idle0000" x="561" y="432" width="400" height="423" frameX="-141" frameY="-277" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0031" x="1156" y="863" width="394" height="423" frameX="-146" frameY="-277" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0032" x="1712" y="1292" width="389" height="423" frameX="-150" frameY="-277" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0033" x="1715" y="1718" width="389" height="423" frameX="-150" frameY="-277" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0034" x="2284" y="2144" width="389" height="423" frameX="-150" frameY="-277" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0035" x="0" y="2569" width="389" height="423" frameX="-150" frameY="-277" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0036" x="389" y="2569" width="389" height="423" frameX="-150" frameY="-277" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0037" x="778" y="2569" width="389" height="423" frameX="-150" frameY="-277" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0038" x="1167" y="2569" width="389" height="423" frameX="-150" frameY="-277" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0039" x="1556" y="2569" width="389" height="423" frameX="-150" frameY="-277" frameWidth="700" frameHeight="700" />
+<SubTexture name="ALNHTAP0040" x="1945" y="2569" width="389" height="423" frameX="-150" frameY="-277" frameWidth="700" frameHeight="700" />
+<SubTexture name="Idle0000" x="2334" y="2569" width="389" height="423" frameX="-150" frameY="-277" frameWidth="700" frameHeight="700" />
+</TextureAtlas>

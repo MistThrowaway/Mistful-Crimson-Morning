@@ -1,0 +1,2 @@
+Value 1 is the name of the image 
+Value 2 is how long it's there for.

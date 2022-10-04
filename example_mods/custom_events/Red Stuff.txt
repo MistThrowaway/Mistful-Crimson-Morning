@@ -1,0 +1,4 @@
+makes red stuff on beat
+
+value 1: opacity
+value 2: speed

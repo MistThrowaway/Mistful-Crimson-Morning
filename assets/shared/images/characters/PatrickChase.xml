@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="PatrickChase.png"><SubTexture name="PatrickChase Idle0000" x="2170" y="0" width="423" height="550" frameX="-147" frameY="-124" frameWidth="739" frameHeight="708" />
+<SubTexture name="PatrickChase Right0000" x="0" y="1802" width="597" height="522" frameX="-115" frameY="-153" frameWidth="739" frameHeight="708" />
+<SubTexture name="PatrickChase Right0001" x="2593" y="0" width="592" height="519" frameX="-120" frameY="-157" frameWidth="739" frameHeight="708" />
+<SubTexture name="PatrickChase Right0002" x="2593" y="519" width="588" height="519" frameX="-123" frameY="-157" frameWidth="739" frameHeight="708" />
+<SubTexture name="PatrickChase Right0003" x="2593" y="1038" width="588" height="518" frameX="-123" frameY="-156" frameWidth="739" frameHeight="708" />
+<SubTexture name="PatrickChase Right0004" x="597" y="1802" width="588" height="520" frameX="-123" frameY="-154" frameWidth="739" frameHeight="708" />
+<SubTexture name="PatrickChase Right0005" x="1185" y="1802" width="589" height="520" frameX="-122" frameY="-154" frameWidth="739" frameHeight="708" />
+<SubTexture name="PatrickChase Right0006" x="1774" y="1802" width="590" height="520" frameX="-122" frameY="-154" frameWidth="739" frameHeight="708" />
+<SubTexture name="PatrickChase Down0000" x="0" y="2324" width="631" height="515" frameX="-74" frameY="-166" frameWidth="739" frameHeight="708" />
+<SubTexture name="PatrickChase Down0001" x="2515" y="2324" width="630" height="507" frameX="-73" frameY="-179" frameWidth="739" frameHeight="708" />
+<SubTexture name="PatrickChase Down0002" x="3185" y="0" width="628" height="506" frameX="-74" frameY="-180" frameWidth="739" frameHeight="708" />
+<SubTexture name="PatrickChase Down0003" x="3185" y="506" width="627" height="506" frameX="-74" frameY="-180" frameWidth="739" frameHeight="708" />
+<SubTexture name="PatrickChase Down0004" x="1887" y="2324" width="628" height="508" frameX="-74" frameY="-178" frameWidth="739" frameHeight="708" />
+<SubTexture name="PatrickChase Down0005" x="631" y="2324" width="628" height="509" frameX="-74" frameY="-177" frameWidth="739" frameHeight="708" />
+<SubTexture name="PatrickChase Down0006" x="1259" y="2324" width="628" height="509" frameX="-74" frameY="-177" frameWidth="739" frameHeight="708" />
+<SubTexture name="PatrickChase Left0000" x="1626" y="625" width="410" height="553" frameX="-121" frameY="-119" frameWidth="739" frameHeight="708" />
+<SubTexture name="PatrickChase Left0001" x="0" y="1250" width="414" height="552" frameX="-115" frameY="-123" frameWidth="739" frameHeight="708" />
+<SubTexture name="PatrickChase Left0002" x="414" y="1250" width="413" height="552" frameX="-116" frameY="-123" frameWidth="739" frameHeight="708" />
+<SubTexture name="PatrickChase Left0003" x="827" y="1250" width="414" height="552" frameX="-115" frameY="-124" frameWidth="739" frameHeight="708" />
+<SubTexture name="PatrickChase Left0004" x="1241" y="1250" width="416" height="552" frameX="-113" frameY="-123" frameWidth="739" frameHeight="708" />
+<SubTexture name="PatrickChase Left0005" x="1657" y="1250" width="417" height="552" frameX="-112" frameY="-123" frameWidth="739" frameHeight="708" />
+<SubTexture name="PatrickChase Left0006" x="1657" y="1250" width="417" height="552" frameX="-112" frameY="-123" frameWidth="739" frameHeight="708" />
+<SubTexture name="PatrickChase Up0000" x="0" y="0" width="549" height="625" frameX="-92" frameY="-32" frameWidth="739" frameHeight="708" />
+<SubTexture name="PatrickChase Up0001" x="549" y="0" width="539" height="625" frameX="-96" frameY="-28" frameWidth="739" frameHeight="708" />
+<SubTexture name="PatrickChase Up0002" x="1088" y="0" width="538" height="625" frameX="-97" frameY="-27" frameWidth="739" frameHeight="708" />
+<SubTexture name="PatrickChase Up0003" x="0" y="625" width="539" height="625" frameX="-96" frameY="-28" frameWidth="739" frameHeight="708" />
+<SubTexture name="PatrickChase Up0004" x="539" y="625" width="542" height="625" frameX="-95" frameY="-30" frameWidth="739" frameHeight="708" />
+<SubTexture name="PatrickChase Up0005" x="1081" y="625" width="544" height="625" frameX="-94" frameY="-30" frameWidth="739" frameHeight="708" />
+<SubTexture name="PatrickChase Up0006" x="1626" y="0" width="544" height="625" frameX="-94" frameY="-30" frameWidth="739" frameHeight="708" />
+</TextureAtlas>

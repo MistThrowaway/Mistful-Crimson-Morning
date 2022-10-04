@@ -1,0 +1,14 @@
+﻿<TextureAtlas imagePath="Scream.png">
+<!--  Created with Adobe Animate version 21.0.5.40714  -->
+<!--  http://www.adobe.com/products/animate.html  -->
+<SubTexture name="SCREAM0000" x="0" y="0" width="614" height="768"/>
+<SubTexture name="SCREAM0001" x="614" y="0" width="614" height="768"/>
+<SubTexture name="SCREAM0002" x="1228" y="0" width="614" height="768"/>
+<SubTexture name="SCREAM0003" x="1842" y="0" width="614" height="768"/>
+<SubTexture name="SCREAM0004" x="2456" y="0" width="614" height="768"/>
+<SubTexture name="SCREAM0005" x="3070" y="0" width="614" height="768"/>
+<SubTexture name="SCREAM0006" x="0" y="768" width="614" height="768"/>
+<SubTexture name="SCREAM0007" x="614" y="768" width="614" height="768"/>
+<SubTexture name="SCREAM0008" x="1228" y="768" width="614" height="768"/>
+<SubTexture name="SCREAM0009" x="1842" y="768" width="614" height="768"/>
+</TextureAtlas>

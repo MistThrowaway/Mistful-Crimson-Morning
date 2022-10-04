@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				250,
+				-5
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "DEAD"
+		},
+		{
+			"offsets": [
+				250,
+				-5
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "dielol",
+			"indices": [],
+			"name": "Shoot himself"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Hes_fucking_dead",
+	"position": [
+		60,
+		-140
+	],
+	"healthicon": "darkward",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-210,
+		560
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

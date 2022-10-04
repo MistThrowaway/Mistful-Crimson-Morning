@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="served anim spritethingy.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="plankton scream anim0000" x="0" y="0" width="351" height="354" frameX="-93" frameY="-25" frameWidth="494" frameHeight="507"/>
+	<SubTexture name="plankton scream anim0001" x="351" y="0" width="351" height="354" frameX="-93" frameY="-25" frameWidth="494" frameHeight="507"/>
+	<SubTexture name="plankton scream anim0002" x="702" y="0" width="364" height="350" frameX="-87" frameY="-28" frameWidth="494" frameHeight="507"/>
+	<SubTexture name="plankton scream anim0003" x="1066" y="0" width="364" height="350" frameX="-87" frameY="-28" frameWidth="494" frameHeight="507"/>
+	<SubTexture name="plankton scream anim0004" x="1430" y="0" width="370" height="394" frameX="-84" frameY="-16" frameWidth="494" frameHeight="507"/>
+	<SubTexture name="plankton scream anim0005" x="1800" y="0" width="370" height="394" frameX="-84" frameY="-16" frameWidth="494" frameHeight="507"/>
+	<SubTexture name="plankton scream anim0006" x="2170" y="0" width="419" height="433" frameX="-46" frameY="-1" frameWidth="494" frameHeight="507"/>
+	<SubTexture name="plankton scream anim0007" x="2589" y="0" width="419" height="433" frameX="-46" frameY="-1" frameWidth="494" frameHeight="507"/>
+	<SubTexture name="plankton scream anim0008" x="3008" y="0" width="472" height="507" frameX="-11" frameY="0" frameWidth="494" frameHeight="507"/>
+	<SubTexture name="plankton scream anim0009" x="3480" y="0" width="472" height="507" frameX="-11" frameY="0" frameWidth="494" frameHeight="507"/>
+	<SubTexture name="plankton scream anim0010" x="0" y="507" width="470" height="489" frameX="-13" frameY="-18" frameWidth="494" frameHeight="507"/>
+	<SubTexture name="plankton scream anim0011" x="470" y="507" width="470" height="489" frameX="-13" frameY="-18" frameWidth="494" frameHeight="507"/>
+	<SubTexture name="plankton scream anim0012" x="940" y="507" width="470" height="489" frameX="-13" frameY="-18" frameWidth="494" frameHeight="507"/>
+	<SubTexture name="plankton scream anim0013" x="1410" y="507" width="470" height="489" frameX="-13" frameY="-18" frameWidth="494" frameHeight="507"/>
+	<SubTexture name="plankton scream anim0014" x="1880" y="507" width="470" height="489" frameX="-13" frameY="-18" frameWidth="494" frameHeight="507"/>
+	<SubTexture name="plankton scream anim0015" x="2350" y="507" width="470" height="489" frameX="-13" frameY="-18" frameWidth="494" frameHeight="507"/>
+	<SubTexture name="plankton scream anim0016" x="2820" y="507" width="473" height="490" frameX="-18" frameY="-8" frameWidth="494" frameHeight="507"/>
+	<SubTexture name="plankton scream anim0017" x="3293" y="507" width="494" height="482" frameX="0" frameY="-18" frameWidth="494" frameHeight="507"/>
+	<SubTexture name="plankton scream anim0018" x="0" y="997" width="335" height="364" frameX="-74" frameY="-12" frameWidth="494" frameHeight="507"/>
+	<SubTexture name="plankton scream anim0019" x="335" y="997" width="335" height="364" frameX="-74" frameY="-12" frameWidth="494" frameHeight="507"/>
+	<SubTexture name="plankton scream anim0020" x="670" y="997" width="312" height="339" frameX="-89" frameY="-32" frameWidth="494" frameHeight="507"/>
+	<SubTexture name="plankton scream anim0021" x="982" y="997" width="312" height="339" frameX="-89" frameY="-32" frameWidth="494" frameHeight="507"/>
+	<SubTexture name="plankton scream anim0022" x="1294" y="997" width="330" height="325" frameX="-88" frameY="-46" frameWidth="494" frameHeight="507"/>
+	<SubTexture name="plankton scream anim0023" x="1624" y="997" width="330" height="325" frameX="-88" frameY="-46" frameWidth="494" frameHeight="507"/>
+	<SubTexture name="plankton scream anim0024" x="1954" y="997" width="317" height="323" frameX="-90" frameY="-45" frameWidth="494" frameHeight="507"/>
+	<SubTexture name="plankton scream anim0025" x="2271" y="997" width="317" height="323" frameX="-90" frameY="-45" frameWidth="494" frameHeight="507"/>
+	<SubTexture name="plankton scream anim0026" x="2588" y="997" width="314" height="323" frameX="-92" frameY="-45" frameWidth="494" frameHeight="507"/>
+</TextureAtlas>

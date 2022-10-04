@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "PatrickChase Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "PatrickChase Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-70
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "PatrickChase Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "PatrickChase Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				60
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "PatrickChase Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/PatrickChase",
+	"position": [
+		700,
+		-200
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-50,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="static bg.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="doors0000" x="0" y="0" width="1415" height="835"/>
+	<SubTexture name="doors0001" x="1415" y="0" width="1415" height="835"/>
+	<SubTexture name="doors0002" x="0" y="835" width="1415" height="835"/>
+	<SubTexture name="doors0003" x="1415" y="835" width="1415" height="835"/>
+	<SubTexture name="doors0004" x="1415" y="0" width="1415" height="835"/>
+</TextureAtlas>

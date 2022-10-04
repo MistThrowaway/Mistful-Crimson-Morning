@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				50,
+				-50
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "phase2_sprites idle"
+		},
+		{
+			"offsets": [
+				50,
+				-50
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "phase2_sprites down"
+		},
+		{
+			"offsets": [
+				50,
+				-50
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "phase2_sprites left"
+		},
+		{
+			"offsets": [
+				50,
+				-50
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "phase2_sprites up"
+		},
+		{
+			"offsets": [
+				50,
+				-50
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "phase2_sprites right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/phase2_sprites",
+	"position": [
+		-440,
+		-770
+	],
+	"healthicon": "lolward",
+	"flip_x": false,
+	"healthbar_colors": [
+		74,
+		125,
+		145
+	],
+	"camera_position": [
+		-110,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 0.4
+}

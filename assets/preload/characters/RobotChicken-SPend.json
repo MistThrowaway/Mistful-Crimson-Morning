@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idk",
+			"fps": 12,
+			"name": "ALNHTAP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/largespritesheets/SpongebobEND",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "rcsp",
+	"flip_x": true,
+	"healthbar_colors": [
+		188,
+		176,
+		52
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
