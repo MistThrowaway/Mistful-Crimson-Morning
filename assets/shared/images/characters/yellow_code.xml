@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="yellow_code.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="code yellow0000" x="8" y="8" width="502" height="938"/>
+	<SubTexture name="code yellow0001" x="8" y="8" width="502" height="938"/>
+	<SubTexture name="code yellow0002" x="8" y="8" width="502" height="938"/>
+	<SubTexture name="code yellow0003" x="8" y="8" width="502" height="938"/>
+	<SubTexture name="code yellow0004" x="8" y="8" width="502" height="938"/>
+	<SubTexture name="code yellow0005" x="8" y="8" width="502" height="938"/>
+	<SubTexture name="code yellow0006" x="526" y="8" width="502" height="938"/>
+	<SubTexture name="code yellow0007" x="526" y="8" width="502" height="938"/>
+	<SubTexture name="code yellow0008" x="526" y="8" width="502" height="938"/>
+	<SubTexture name="code yellow0009" x="1044" y="8" width="502" height="938"/>
+	<SubTexture name="code yellow0010" x="1562" y="8" width="502" height="938"/>
+	<SubTexture name="code yellow0011" x="1562" y="8" width="502" height="938"/>
+	<SubTexture name="code yellow0012" x="2080" y="8" width="502" height="938"/>
+	<SubTexture name="code yellow0013" x="2598" y="8" width="502" height="938"/>
+	<SubTexture name="code yellow0014" x="2598" y="8" width="502" height="938"/>
+	<SubTexture name="code yellow0015" x="3116" y="8" width="502" height="938"/>
+	<SubTexture name="code yellow0016" x="3116" y="8" width="502" height="938"/>
+	<SubTexture name="code yellow0017" x="3116" y="8" width="502" height="938"/>
+	<SubTexture name="code yellow0018" x="8" y="962" width="502" height="938"/>
+	<SubTexture name="code yellow0019" x="8" y="962" width="502" height="938"/>
+	<SubTexture name="code yellow0020" x="8" y="962" width="502" height="938"/>
+	<SubTexture name="code yellow0021" x="8" y="962" width="502" height="938"/>
+	<SubTexture name="code yellow0022" x="8" y="962" width="502" height="938"/>
+	<SubTexture name="code yellow0023" x="8" y="962" width="502" height="938"/>
+	<SubTexture name="code yellow0024" x="526" y="962" width="502" height="938"/>
+	<SubTexture name="code yellow0025" x="526" y="962" width="502" height="938"/>
+	<SubTexture name="code yellow0026" x="1044" y="962" width="502" height="938"/>
+	<SubTexture name="code yellow0027" x="1562" y="962" width="502" height="938"/>
+	<SubTexture name="code yellow0028" x="2080" y="962" width="502" height="938"/>
+	<SubTexture name="code yellow0029" x="2598" y="962" width="502" height="938"/>
+	<SubTexture name="code yellow0030" x="3116" y="962" width="502" height="938"/>
+	<SubTexture name="code yellow0031" x="3116" y="962" width="502" height="938"/>
+	<SubTexture name="code yellow0032" x="3116" y="962" width="502" height="938"/>
+	<SubTexture name="code yellow0033" x="3116" y="962" width="502" height="938"/>
+	<SubTexture name="code yellow0034" x="3116" y="962" width="502" height="938"/>
+	<SubTexture name="code yellow0035" x="8" y="1916" width="502" height="938"/>
+	<SubTexture name="code yellow0036" x="8" y="1916" width="502" height="938"/>
+	<SubTexture name="code yellow0037" x="526" y="1916" width="502" height="938"/>
+	<SubTexture name="code yellow0038" x="526" y="1916" width="502" height="938"/>
+	<SubTexture name="code yellow0039" x="526" y="1916" width="502" height="938"/>
+	<SubTexture name="code yellow0040" x="1044" y="1916" width="502" height="938"/>
+	<SubTexture name="code yellow0041" x="1044" y="1916" width="502" height="938"/>
+	<SubTexture name="code yellow0042" x="1044" y="1916" width="502" height="938"/>
+	<SubTexture name="code yellow0043" x="1562" y="1916" width="502" height="938"/>
+	<SubTexture name="code yellow0044" x="1562" y="1916" width="502" height="938"/>
+	<SubTexture name="code yellow0045" x="1562" y="1916" width="502" height="938"/>
+	<SubTexture name="code yellow0046" x="2080" y="1916" width="502" height="938"/>
+	<SubTexture name="code yellow0047" x="2598" y="1916" width="502" height="938"/>
+	<SubTexture name="code yellow0048" x="2598" y="1916" width="502" height="938"/>
+	<SubTexture name="code yellow0049" x="2598" y="1916" width="502" height="938"/>
+	<SubTexture name="code yellow0050" x="2598" y="1916" width="502" height="938"/>
+	<SubTexture name="code yellow0051" x="2598" y="1916" width="502" height="938"/>
+	<SubTexture name="code yellow0052" x="2598" y="1916" width="502" height="938"/>
+	<SubTexture name="code yellow0053" x="2598" y="1916" width="502" height="938"/>
+	<SubTexture name="code yellow0054" x="2598" y="1916" width="502" height="938"/>
+	<SubTexture name="code yellow0055" x="2598" y="1916" width="502" height="938"/>
+</TextureAtlas>

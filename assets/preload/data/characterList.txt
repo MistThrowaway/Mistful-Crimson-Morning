@@ -7,6 +7,8 @@ phase2alt
 phase3
 DOOMSDAY_SQUIDWARD
 canon
+tortured_pat
+tortured-squid
 plankton
 planktonSCREAM
 sponge1
@@ -15,13 +17,14 @@ DEAD HOPE SPONG
 DEAD HOPE PAT
 PATRICKCHASE
 SPONGECHASE
-joe
-dry_sponge
+BOOTLEG
+BOOTLEG_ANNOYED
 RobotChicken-SP
 RobotChicken-KR
 RobotChicken-KR-Scenes
 RobotChicken-SQ
-BOOTLEG
-BOOTLEG_ANNOYED
-tortured_pat
-tortured-squid
+bf-spongebobcage
+reagan
+reaganYellow
+dry_sponge
+joe
