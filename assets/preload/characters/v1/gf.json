@@ -1,0 +1,68 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"fps": 12,
+			"anim": "cheer",
+			"indices": [],
+			"name": "GF Cheer"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"fps": 12,
+			"anim": "danceLeft",
+			"indices": [
+				9,
+				0,
+				1,
+				2,
+				3,
+				4
+			],
+			"name": "GF Dancing Beat"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"fps": 12,
+			"anim": "danceRight",
+			"indices": [
+				5,
+				6,
+				7,
+				8
+			],
+			"name": "GF Dancing Beat"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/v1/GF_FinishedREAL",
+	"position": [
+		-230,
+		-280
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

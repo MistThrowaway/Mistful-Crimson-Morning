@@ -6935,9 +6935,29 @@
 				"bpm": 110,
 				"changeBPM": false,
 				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"bpm": 110,
+				"changeBPM": false,
+				"mustHitSection": true,
+				"gfSection": false,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false
 			}
 		],
 		"events": [
+			[
+				0,
+				[
+					[
+						"Sanguilacrimae Middlescroll",
+						"",
+						""
+					]
+				]
+			],
 			[
 				19636.3636363636,
 				[
@@ -6987,7 +7007,7 @@
 		"player2": "canon",
 		"player3": null,
 		"splashSkin": "noteSplashes",
-		"song": "sanguilacrimae",
+		"song": "Sanguilacrimae",
 		"needsVoices": true,
 		"arrowSkin": "",
 		"validScore": true,

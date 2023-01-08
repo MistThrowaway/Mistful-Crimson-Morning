@@ -6559,6 +6559,16 @@
 				"bpm": 180,
 				"changeBPM": false,
 				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"bpm": 180,
+				"changeBPM": false,
+				"mustHitSection": true,
+				"gfSection": false,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false
 			}
 		],
 		"player2": "DEAD HOPE SPONG",
@@ -6715,7 +6725,7 @@
 				]
 			],
 			[
-				65416.6666666667,
+				65333.33333333338,
 				[
 					[
 						"FlipUI",
@@ -6745,28 +6755,13 @@
 				]
 			],
 			[
-				80833.3333333333,
-				[
-					[
-						"FlipUI",
-						"",
-						""
-					]
-				]
-			],
-			[
 				81333.3333333333,
 				[
 					[
 						"Light",
 						"1",
 						""
-					]
-				]
-			],
-			[
-				86500,
-				[
+					],
 					[
 						"FlipUI",
 						"",
@@ -6775,7 +6770,7 @@
 				]
 			],
 			[
-				91666.6666666666,
+				86666.66666666664,
 				[
 					[
 						"FlipUI",
@@ -6791,12 +6786,7 @@
 						"Set Cam Zoom",
 						"2",
 						"5"
-					]
-				]
-			],
-			[
-				97083.3333333333,
-				[
+					],
 					[
 						"FlipUI",
 						"",
@@ -6811,12 +6801,7 @@
 						"Set Cam Zoom",
 						"1",
 						"1"
-					]
-				]
-			],
-			[
-				102500,
-				[
+					],
 					[
 						"FlipUI",
 						"",
@@ -6829,6 +6814,11 @@
 				[
 					[
 						"Bopping HUD",
+						"",
+						""
+					],
+					[
+						"FlipUI",
 						"",
 						""
 					]
@@ -6906,7 +6896,7 @@
 			]
 		],
 		"player3": null,
-		"song": "dead-hope",
+		"song": "Dead Hope",
 		"needsVoices": true,
 		"sections": 0,
 		"validScore": true,

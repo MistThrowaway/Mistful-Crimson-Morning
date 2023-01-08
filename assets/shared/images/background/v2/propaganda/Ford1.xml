@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ford1.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ford10000" x="0" y="0" width="341" height="789" frameX="0" frameY="-6" frameWidth="341" frameHeight="795"/>
+	<SubTexture name="Ford10001" x="0" y="0" width="341" height="789" frameX="0" frameY="-6" frameWidth="341" frameHeight="795"/>
+	<SubTexture name="Ford10002" x="341" y="0" width="335" height="788" frameX="-3" frameY="-6" frameWidth="341" frameHeight="795"/>
+	<SubTexture name="Ford10003" x="341" y="0" width="335" height="788" frameX="-3" frameY="-6" frameWidth="341" frameHeight="795"/>
+	<SubTexture name="Ford10004" x="676" y="0" width="306" height="786" frameX="-23" frameY="-1" frameWidth="341" frameHeight="795"/>
+	<SubTexture name="Ford10005" x="676" y="0" width="306" height="786" frameX="-23" frameY="-1" frameWidth="341" frameHeight="795"/>
+	<SubTexture name="Ford10006" x="982" y="0" width="300" height="785" frameX="-26" frameY="0" frameWidth="341" frameHeight="795"/>
+	<SubTexture name="Ford10007" x="982" y="0" width="300" height="785" frameX="-26" frameY="0" frameWidth="341" frameHeight="795"/>
+	<SubTexture name="Ford10008" x="982" y="0" width="300" height="785" frameX="-26" frameY="0" frameWidth="341" frameHeight="795"/>
+	<SubTexture name="Ford10009" x="982" y="0" width="300" height="785" frameX="-26" frameY="0" frameWidth="341" frameHeight="795"/>
+	<SubTexture name="Ford10010" x="982" y="0" width="300" height="785" frameX="-26" frameY="0" frameWidth="341" frameHeight="795"/>
+	<SubTexture name="Ford10011" x="982" y="0" width="300" height="785" frameX="-26" frameY="0" frameWidth="341" frameHeight="795"/>
+	<SubTexture name="Ford10012" x="982" y="0" width="300" height="785" frameX="-26" frameY="0" frameWidth="341" frameHeight="795"/>
+	<SubTexture name="Ford10013" x="982" y="0" width="300" height="785" frameX="-26" frameY="0" frameWidth="341" frameHeight="795"/>
+</TextureAtlas>

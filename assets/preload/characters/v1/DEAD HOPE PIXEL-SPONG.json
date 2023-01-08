@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "dhspongpixel idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-68,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "dhspongpixel left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				3
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "dhspongpixel up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "dhspongpixel right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "dhspongpixel down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/v1/dhspongpixel",
+	"position": [
+		130,
+		410
+	],
+	"healthicon": "faceless",
+	"flip_x": false,
+	"healthbar_colors": [
+		197,
+		48,
+		47
+	],
+	"camera_position": [
+		-340,
+		-170
+	],
+	"sing_duration": 6,
+	"scale": 10
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 60,
+			"name": " idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 60,
+			"name": " left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 60,
+			"name": " down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 60,
+			"name": " up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 60,
+			"name": " right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				733,
+				275
+			],
+			"anim": "INEEDIT",
+			"fps": 60,
+			"name": " ineedit",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/v1/largespritesheets/Dry_Spongebob",
+	"position": [
+		0,
+		-30
+	],
+	"healthicon": "driedup",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-360,
+		-40
+	],
+	"sing_duration": 8,
+	"scale": 1.35
+}

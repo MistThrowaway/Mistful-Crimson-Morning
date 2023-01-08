@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["MCM (v2)"],
+		["Propaganda", "reagan", [116, 79, 77]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Mistful Crimson Morning (v2)",
+	"weekBefore": "tutorial",
+	"weekName": "MCMv2",
+	"difficulties": "Hard",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

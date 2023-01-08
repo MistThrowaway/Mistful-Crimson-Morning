@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-291,
+				-197
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "code yellow",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/v2/yellow_code",
+	"position": [
+		-500,
+		-120
+	],
+	"healthicon": "reagan",
+	"flip_x": false,
+	"healthbar_colors": [
+		181,
+		192,
+		113
+	],
+	"camera_position": [
+		500,
+		210
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

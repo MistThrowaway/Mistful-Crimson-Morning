@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-359,
+				-209
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DownReagan"
+		},
+		{
+			"offsets": [
+				-178,
+				-179
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UpReagan"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-260,
+				-193
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LeftReagan",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-327,
+				-196
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RightReagan",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-251,
+				-197
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IdleReagan"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/v2/Reagan",
+	"position": [
+		-500,
+		-120
+	],
+	"healthicon": "reagan",
+	"flip_x": false,
+	"healthbar_colors": [
+		181,
+		192,
+		113
+	],
+	"camera_position": [
+		500,
+		210
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

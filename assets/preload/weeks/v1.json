@@ -1,0 +1,34 @@
+{
+	"songs": [
+		["MCM (v1)"],
+		["Humiliation", "squidward", [103, 174, 175]],
+		["Mist", "lolward", [105, 157, 121]],
+		["Doomsday", "darkward", [171, 186, 183]],
+		["Sanguilacrimae", "canonsquiddy", [182, 203, 194]],
+		["Tortured", "TP", [10, 10, 10]],
+		["Served", "plankton", [63, 92, 93]],
+		["Satisfaction", "spongebob", [255, 198, 26]],
+		["Dead Hope", "faceless", [197, 48, 47]],
+		["Dumped", "bootleg", [60, 83, 47]],
+		["Cannibalism", "rckr", [130, 6, 24]],
+		["Dehydrated", "driedup", [181, 149, 26]],
+		["Joe Mama", "joe", [105, 157, 121]],
+		["Plagerize", "fred", [116, 79, 77]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Mistful Crimson Morning (v1)",
+	"weekBefore": "tutorial",
+	"weekName": "MCMv1",
+	"difficulties": "Hard",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

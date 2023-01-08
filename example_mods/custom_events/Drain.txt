@@ -1,3 +1,0 @@
-Steals health everytime its  called, useful for Illusion, Hallucination, Crusify, etc.
-THE VALUE IS REQUIRED FOR THE EFFECT TO DO SOMETHING
-Value 1 : How much health, half health is 1.

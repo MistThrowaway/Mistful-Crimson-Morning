@@ -1,1 +1,0 @@
-Value 1 = How much health to drain when opponent sings (0.5 is recommended)
