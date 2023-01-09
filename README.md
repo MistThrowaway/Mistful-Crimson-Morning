@@ -9,7 +9,7 @@ I don't really care about this being on websites/such, but if you do want to put
 These are open! If you want to contribute, go ahead! Please make sure if your PR is incomplete that you use a template, however.
 
 ## Credits
-Original HUD script by (Waldo)[https://twitter.com/waldoesque]
+Original HUD script by [Waldo](https://twitter.com/waldoesque)
 
 ## Psych README
 [Check here](OGREADME.md)
