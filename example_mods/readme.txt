@@ -1,0 +1,1 @@
+Empty mods folder so "Project.xml" doesn't fuss.
